@@ -1,8 +1,8 @@
 # NLP-beginner
 
-completion of nlp-beginner of FDU NLP lab
+我对 nlp-beginner 任务的实现
 
-original task: https://github.com/FudanNLP/nlp-beginner
+原任务链接: https://github.com/FudanNLP/nlp-beginner
 
 ---
 
